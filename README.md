@@ -1,3 +1,3 @@
 # TypeScript
 
-Typescript practice code and files
+Typescript practice code, files and vite boilerplate code.
